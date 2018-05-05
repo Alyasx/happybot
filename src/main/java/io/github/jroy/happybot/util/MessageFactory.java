@@ -107,7 +107,20 @@ public class MessageFactory {
                 "<user> was arrested for stealing Josh's totinos.",
                 "You know I had to do it to em.",
                 "<user>, how are you going to get e-girls now?",
-                "<user>, ya done goofed."
+                "<user>, ya done goofed.",
+                "<user>, shut up the fuck.",
+                "<user> gg.",
+                "<user> **thank**",
+                "<user> slow your role baby biscuit",
+                "<user> oh you are a feisty one aren't ya?",
+                "<user> how could you...",
+                "<user> dabbed...",
+                "<user> good for you kiddo.",
+                "<user> said happyheart was bad at LoL.",
+                "<user> submitted 1 too many messages",
+                "<user>, please refrain from taking josh's doritoe's and mountain dew, he needs them to code a FUNCTIONING BOT!",
+                "<user> Get a therapist to help your depression",
+                
         };
     }
 
@@ -229,7 +242,15 @@ public class MessageFactory {
                 "is here to chew bubblegum and use stale memes, and they're all out of bubblegum!",
                 "I like rape.",
                 "Welcome to Canada!",
-                "Brain Power: 0! Teeth Count: 24!"
+                "Brain Power: 0! Teeth Count: 24!",
+                "DUUUUUUDEEEEEE",
+                "You are probably going to leave in 5... 4... 3... 2... and you're already gone. Gj <user>.",
+                "*insert repulsive soviet russia joke*",
+                "joined bigly quick!",
+                "wants to know the ways of Bomber.",
+                "gIve mE stafF givE me gOod Stuff",
+                "came to see the new mute system!",
+                "came here to be ban"
 
         };
         leaveMessages = new String[]{
@@ -386,7 +407,21 @@ public class MessageFactory {
                 "left. Another one bites the dust!",
                 "anotha one.",
                 "somehow managed to cross the Berlin wall.",
-                "deleted the Admin role."
+                "deleted the Admin role.",
+                "thought orianna shot a gun when, in reality, she just throws bullets!",
+                "Where did that boy go?",
+                "Didn't main Orianna and died.",
+                "Said Bubba's real name ~~kevin~~ tearyen**COUGH Cough**",
+                "thought this was a roblox discord server!!",
+                "Hope you find a nose on the way out!",
+                "thought they clicked the "Change Nickname" but they actually clicked the "Leave Server" by accident.",
+                "lost all their money",
+                "couldn't turn into a super saiyan here.",
+                "left to go catch up on the latest episodes of riverdale.",
+                "couldn't believe that we live in a society.",
+                "lol bye",
+                "Thanks a lot Josh",
+                "was given the cheese touch."
         };
     }
 
